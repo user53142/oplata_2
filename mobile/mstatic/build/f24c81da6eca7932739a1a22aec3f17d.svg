@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Export" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="07_explore-1_category-1_cards_shops-2_item" transform="translate(-20.000000, -44.000000)">
+            <g id="App-Bar:-2-action" transform="translate(0.000000, 24.000000)">
+                <g id="bg">
+                    <g id="Group" transform="translate(16.000000, 16.000000)">
+                        <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                        <g id="ic_ab_back_blue_24" transform="translate(4.000000, 4.000000)" fill-rule="nonzero" fill="#00AAFF">
+                            <path d="M3.41421356,7 L8.20710678,2.20710678 C8.59763107,1.81658249 8.59763107,1.18341751 8.20710678,0.792893219 C7.81658249,0.402368927 7.18341751,0.402368927 6.79289322,0.792893219 L0.292893219,7.29289322 C0.0976310729,7.48815536 -1.94289029e-16,7.74407768 2.77555756e-17,8 C2.49800181e-16,8.25592232 0.0976310729,8.51184464 0.292893219,8.70710678 L6.79289322,15.2071068 C7.18341751,15.5976311 7.81658249,15.5976311 8.20710678,15.2071068 C8.59763107,14.8165825 8.59763107,14.1834175 8.20710678,13.7928932 L3.41421356,9 L15,9 C15.5522847,9 16,8.55228475 16,8 C16,7.44771525 15.5522847,7 15,7 L3.41421356,7 Z" id="Combined-Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
